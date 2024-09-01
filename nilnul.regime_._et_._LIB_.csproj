@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Deterministic>false</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>nilnul.regime_.et</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Description>
+		  this acts the constitution for the fictional|virtualReality|metaUniverse extra-territory, that is, outer planet other than earth.
+		  The society there runs by the the rules of this; the nature, as everywhere else would, runs by the rules of science;
+		  
+		  This is written in programming lanuage, as it's not for earthen world but for virtual|info world; That is an imagined Utopia or a PeachFlowerSantuary.
+		  
+	  </Description>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>t.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="citizen\economy\" />
+    <Folder Include="economy_\" />
+    <Folder Include="_armment\civil\weapon\" />
+    <Folder Include="_armment\military\direction\" />
+    <Folder Include="_constitution\_gov\power\separation_\congress\armment\" />
+    <Folder Include="_constitution\_gov\power\separation_\congress\legislate\" />
+    <Folder Include="_constitution\_gov\power\separation_\congress\legislate_\revenue\" />
+    <Folder Include="_constitution\_gov\tripod\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="License.txt" Pack="true" PackagePath="" />
+  </ItemGroup>
+</Project>

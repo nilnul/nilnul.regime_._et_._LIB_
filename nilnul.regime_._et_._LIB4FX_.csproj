@@ -1,0 +1,258 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3CF567EE-4B21-410B-8DAF-2EDD058C5B13}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>nilnul.regime_._et_._LIB4FX_</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>nilnul.regime_.et</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="citizen\IEconomy.cs" />
+    <Compile Include="citizen_\migrant\IRevoke.cs" />
+    <Compile Include="citizen\_freedom\IDrug.cs" />
+    <Compile Include="citizen\_freedom\ISex.cs" />
+    <Compile Include="constitution\IDegenerate.cs" />
+    <Compile Include="constitution\IPerson.cs" />
+    <Compile Include="constitution\IRevise.cs" />
+    <Compile Include="constitution\Lifecycle.cs" />
+    <Compile Include="constitution\_revise\principle_\NonRetroactive.cs" />
+    <Compile Include="gov\court\Plaintiff.cs" />
+    <Compile Include="gov\admin\IPremier.cs" />
+    <Compile Include="gov\admin\president\IAmnesty.cs" />
+    <Compile Include="gov\admin\president0guberator\IExecuteDeathPenalty.cs" />
+    <Compile Include="gov\admin\IProsecutor.cs" />
+    <Compile Include="gov\admin\_prosecutor\IElect.cs" />
+    <Compile Include="gov\congress\council\IRepresentative.cs" />
+    <Compile Include="gov\congress\council\repre\ICount.cs" />
+    <Compile Include="gov\congress\council\_repre\Election.cs" />
+    <Compile Include="gov\congress\council\_repre\elect_\Hier.cs" />
+    <Compile Include="gov\congress\IBudget4admin.cs" />
+    <Compile Include="gov\congress\IDuty.cs" />
+    <Compile Include="gov\congress\IHearing.cs" />
+    <Compile Include="gov\congress\ILaw.cs" />
+    <Compile Include="gov\congress\legislate_\xpn_\OnNonfutureDeeds.cs" />
+    <Compile Include="gov\congress\power_\PauseDeathPenalty.cs" />
+    <Compile Include="gov\congress\senate\senator\ICount.cs" />
+    <Compile Include="gov\congress\senate\_senator\Election.cs" />
+    <Compile Include="gov\congress\senate\_senator\_elect\IConstituency.cs" />
+    <Compile Include="gov\congress\senate\_senator\_elect\_profession\IPartition.cs" />
+    <Compile Include="gov\court\IControl.cs" />
+    <Compile Include="gov\court\IDuty.cs" />
+    <Compile Include="gov\court\IOffense.cs" />
+    <Compile Include="gov\court\judge\IAppoint.cs" />
+    <Compile Include="gov\court\Jury.cs" />
+    <Compile Include="gov\court\Trial.cs" />
+    <Compile Include="gov\court\trial_\Jury.cs" />
+    <Compile Include="gov\court\trial_\jury_\CitizenVsPolic.cs" />
+    <Compile Include="gov\court\trial_\_jury\Juror.cs" />
+    <Compile Include="gov\ICourt.cs" />
+    <Compile Include="gov\IForbidden.cs" />
+    <Compile Include="gov\IHarmonic.cs" />
+    <Compile Include="gov\IMonitor.cs" />
+    <Compile Include="gov\IOpen.cs" />
+    <Compile Include="gov\IPremier.cs" />
+    <Compile Include="gov\ISegregationOfPowers.cs" />
+    <Compile Include="gov\ITrich.cs" />
+    <Compile Include="gov\leader\IMansion.cs" />
+    <Compile Include="gov\official\IBeareau.cs" />
+    <Compile Include="gov\official\IDischarge.cs" />
+    <Compile Include="gov\president\Election.cs" />
+    <Compile Include="gov\president\IDuty.cs" />
+    <Compile Include="gov\trich_\ICongress.cs" />
+    <Compile Include="gov\xpn_\INews.cs" />
+    <Compile Include="gov\_congress\Bicameral.cs" />
+    <Compile Include="gov\_court_\RuleByLaw.cs" />
+    <Compile Include="gov\_member\IExam.cs" />
+    <Compile Include="gov\_official\_elect\Period.cs" />
+    <Compile Include="IGovernment.cs" />
+    <Compile Include="IMilitary.cs" />
+    <Compile Include="info\INews.cs" />
+    <Compile Include="info\_news\IMedia.cs" />
+    <Compile Include="IParties.cs" />
+    <Compile Include="IProvident.cs" />
+    <Compile Include="IConstituion.cs" />
+    <Compile Include="IInfo.cs" />
+    <Compile Include="ILaw.cs" />
+    <Compile Include="ISeal.cs" />
+    <Compile Include="law\IPerson.cs" />
+    <Compile Include="law\penalty_\death\IAdminister.cs" />
+    <Compile Include="gov\IMember.cs" />
+    <Compile Include="nilnul0\regime_\IEt.cs" />
+    <Compile Include="nilnul0\regime_\_et\IDesign.cs" />
+    <Compile Include="nilnul0\regime_\_et\Initialize.cs" />
+    <Compile Include="nilnul0\regime_\_et\_design\IProgramming.cs" />
+    <Compile Include="nilnul0\regime_\_et\_design\IPrototype.cs" />
+    <Compile Include="of_\IMigrate.cs" />
+    <Compile Include="party\Member.cs" />
+    <Compile Include="people\ILife.cs" />
+    <Compile Include="people\IPetition.cs" />
+    <Compile Include="people\IRule.cs" />
+    <Compile Include="people\IWoke.cs" />
+    <Compile Include="people\_petition\Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+    <Compile Include="people\_petition\SettingsX.cs" />
+    <Compile Include="person\IRight.cs" />
+    <Compile Include="person\right_\free\IAssembly.cs" />
+    <Compile Include="person\right_\free\IWeapon.cs" />
+    <Compile Include="person\right_\IAssembly.cs" />
+    <Compile Include="person\right_\IFinance.cs" />
+    <Compile Include="person\right_\IFreedom.cs" />
+    <Compile Include="person\right_\ILiving.cs" />
+    <Compile Include="person\right_\Monitor.cs" />
+    <Compile Include="person\right_\_free_\IInfo.cs" />
+    <Compile Include="person\right_\_free_\ISelfDefend.cs" />
+    <Compile Include="person\right_\medic_\IFree.cs" />
+    <Compile Include="person\right_\_free_\ISpeech.cs" />
+    <Compile Include="provident\duty_\IKeepSeal.cs" />
+    <Compile Include="provident\duty_\mourn_\ICivil.cs" />
+    <Compile Include="provident\duty_\mourn_\ISoldiers.cs" />
+    <Compile Include="provident\duty_\mourn_\IWronged.cs" />
+    <Compile Include="provident\duty_\Welfare.cs" />
+    <Compile Include="provident\duty_\ITribute.cs" />
+    <Compile Include="provident\duty_\welfare\IRecommendation.cs" />
+    <Compile Include="provident\duty_\welfare\Visit.cs" />
+    <Compile Include="provident\duty_\welfare_\_vagrant\Service_.cs" />
+    <Compile Include="provident\IDuty.cs" />
+    <Compile Include="provident\IEdu.cs" />
+    <Compile Include="provident\IPower.cs" />
+    <Compile Include="provident\IRetiring.cs" />
+    <Compile Include="province\gov\admin\IGubernator.cs" />
+    <Compile Include="seal\IKeeping.cs" />
+    <Compile Include="social\issue_\IGender.cs" />
+    <Compile Include="social\issue_\IRace.cs" />
+    <Compile Include="_armment\civil\IArmment.cs" />
+    <Compile Include="_armment\military\Facilitate.cs" />
+    <Compile Include="_armment\military\ICommand.cs" />
+    <Compile Include="_armment\_military\_soldier\IRecruit.cs" />
+    <Compile Include="_constitution\ask_\death8punish\Ans.cs" />
+    <Compile Include="_constitution\ask_\DeathSentence.cs" />
+    <Compile Include="_constitution\Citizen.cs" />
+    <Compile Include="_constitution\citizen\IFreedom.cs" />
+    <Compile Include="_constitution\citizen\IProperty.cs" />
+    <Compile Include="_constitution\citizen\Tax.cs" />
+    <Compile Include="_constitution\citizen\_freedom\IWhy.cs" />
+    <Compile Include="_constitution\Governance.cs" />
+    <Compile Include="_constitution\gov\Administration.cs" />
+    <Compile Include="_constitution\gov\admin\employee_\ISelected.cs" />
+    <Compile Include="_constitution\gov\admin\employee_\IServant.cs" />
+    <Compile Include="_constitution\gov\admin\fiscal\Revenue.cs" />
+    <Compile Include="_constitution\gov\admin\fiscal\revenue_\auction_\Public.cs" />
+    <Compile Include="_constitution\gov\admin\fiscal\revenue_\Penalty.cs" />
+    <Compile Include="_constitution\gov\admin\fiscal\revenue_\Tax.cs" />
+    <Compile Include="_constitution\gov\admin\fiscal\_revenue\Li_.cs" />
+    <Compile Include="_constitution\gov\admin\Info.cs" />
+    <Compile Include="_constitution\IDraft.cs" />
+    <Compile Include="_constitution\IHead.cs" />
+    <Compile Include="_constitution\IParties.cs" />
+    <Compile Include="_constitution\IPoll.cs" />
+    <Compile Include="_constitution\IUnGoverned.cs" />
+    <Compile Include="_constitution\money_\IIndependent.cs" />
+    <Compile Include="_constitution\ownership\ITax.cs" />
+    <Compile Include="_constitution\party\member\IFee.cs" />
+    <Compile Include="_constitution\party\parade_\IPeace.cs" />
+    <Compile Include="_constitution\party\parade_\peace\Breach.cs" />
+    <Compile Include="_constitution\party\_member\IRegistration.cs" />
+    <Compile Include="_constitution\party_\IProfessional.cs" />
+    <Compile Include="_constitution\party_\Political.cs" />
+    <Compile Include="_constitution\_asks\Li_.cs" />
+    <Compile Include="_constitution\_draft\Principle.cs" />
+    <Compile Include="_constitution\_gov\IPower.cs" />
+    <Compile Include="_constitution\_gov\power\ISeparation.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\congress\IArmment.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\congress\IFiscal.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\congress\Legislate.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\congress\legislate_\Revenue.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\IExecutive.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\ILegislature.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\IOmbudsman.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\ITripod.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\_congress\IRepresentation.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\_congress\ISenate.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\_congress_\Debate.cs" />
+    <Compile Include="_constitution\_gov\power\separation_\_court\Jury.cs" />
+    <Compile Include="_constitution\_gov\_tripod\IChairman.cs" />
+    <Compile Include="_constitution\_party\IMission.cs" />
+    <Compile Include="_economy\biz_\IPrivate.cs" />
+    <Compile Include="_gov\IPeople.cs" />
+    <Compile Include="_info\IDebate.cs" />
+    <Compile Include="_info\IVote.cs" />
+    <Compile Include="_provident\IAppointment.cs" />
+    <Compile Include="_provident\_appoint\ICandidate.cs" />
+    <Compile Include="_seal\design_\uxp_\ITree.cs" />
+    <Compile Include="_seal\design_\uxp_\ICogs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="citizen\economy\" />
+    <Folder Include="citizen\revoke\" />
+    <Folder Include="court\" />
+    <Folder Include="gov\admin\gubernator\" />
+    <Folder Include="gov\congress\common\" />
+    <Folder Include="gov\congress\law\" />
+    <Folder Include="gov\congress\parliament\" />
+    <Folder Include="gov\court\judge\_appoint\" />
+    <Folder Include="gov\president\civil\" />
+    <Folder Include="gov\president\military\" />
+    <Folder Include="provident\duty_\tribute\" />
+    <Folder Include="provident\duty_\welfare_\vagrant\" />
+    <Folder Include="_armment\civil\weapon\" />
+    <Folder Include="_armment\military\direction\" />
+    <Folder Include="_citizen\migrant\" />
+    <Folder Include="_constitution\_gov\power\NewFolder1\" />
+    <Folder Include="_constitution\_gov\power\separation_\congress\armment\" />
+    <Folder Include="_constitution\_gov\power\separation_\congress\legislate\" />
+    <Folder Include="_constitution\_gov\power\separation_\congress\legislate_\revenue\" />
+    <Folder Include="_constitution\_gov\tripod\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="people\_petition\Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
