@@ -9,7 +9,8 @@ namespace nilnul.regime_.et.gov.court.judge
 
 	/// studied by law, the rules for social.
 	/// <summary>
-	/// 
+	/// include the supreme court, or the circuit court;
+	/// provincial or lower court judges are nominated at the provincial level: eg, it's elected by the provincial council, not national congress, nominated by governor, not the president ;
 	/// </summary>
 	/// <remarks>
 	/// the process can be for example:

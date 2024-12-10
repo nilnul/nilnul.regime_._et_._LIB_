@@ -14,6 +14,7 @@ namespace nilnul.regime_.et.person.right_.medic_
 	/// <remarks>
 	/// a person doenot need any id, nore money for medicare, as long as ze is a person.
 	/// </remarks>
+	/// As President Joe Biden said in 2024: heath care should be a right, not a privilege;
 	internal class IFree:right_.IFreedom
 	{
 	}

@@ -10,7 +10,20 @@ namespace nilnul.regime_.et.gov._member
 	/// <summary>
 	/// but the officer must pass an exam to be a professional qualification.
 	/// </summary>
+	/// <remarks>
+	/// a test on constitution. The test is made of questions that is:
+	///		1) objective, like choice;
+	///		2) automatic, it's scored by computer;
+	/// ; a qualification, (no need to be excellent), score is ok;
+	///
+	/// and also, the nominated must also take oath to defend the constitution, that is:
+	///		: the freedom of a person
+	///		: the right to autonomy
+	///		
+	/// </remarks>
 	internal class IExam
 	{
 	}
+
+
 }

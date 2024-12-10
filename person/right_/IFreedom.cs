@@ -15,7 +15,9 @@ namespace nilnul.regime_.et.person.right_
 	/// <remarks>
 	/// freedom comes before democracy. A democracy must be a free one in the first place;
 	/// some of the basic rights cannot be infringed by votes from others.
+	/// Even for a convicted, the right to publish is still entitled;
 	/// </remarks>
+	/// 一个将平等置于自由之上的社会，既得不到平等也得不到自由。
 	internal class IFreedom
 	{
 	}

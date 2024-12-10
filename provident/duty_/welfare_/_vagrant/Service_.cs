@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace nilnul.regime_.et.provident.duty_.welfare_._vagrant
 {
-	/// like a capsule hospital/housing (eg: 方舱医院);
+	/// like a capsule hospital/housing (eg: 方舱医院); not apartment where a person uses a room, as to reduce cost, and to avoid inefficiency (by attracting too much from those who works hard in society); each room must have two (better three) or more occupants of the same gender, this can also help reduce corruption in such facility management; Capsule hall with scores of persons is better than ward of rooms; As that is easy to organize, also better than a room of several beds in that a semi-enclosed cell in a capsule can keep more personal space.
+	/// 
+	/// 
 	/// not a prison, but the maintenance and management might be somewhat like an open prison.
 	///
 	/// <summary>

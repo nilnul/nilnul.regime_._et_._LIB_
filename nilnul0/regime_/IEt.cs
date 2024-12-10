@@ -41,9 +41,14 @@ https://zh.wikipedia.org/wiki/理想国
 	///
 	/// alias:
 	///		et
-	///			, like in "et all"
+	///			, like in "et al"
 	///			,sounds like 异体, 异国
 	///			, as in film: ExtraTerritorial
+	///			: this is named as et, not earthen one, in that it helps remind us to be:
+	///				:broadminded, open, objective, view use from a 3rd party outside like an auditor, self-inspective, long term, future-oriented;
+	///
+	/// see:
+	///		https://en.wikipedia.org/wiki/E-democracy
 	internal class IEt
 	{
 	}

@@ -11,6 +11,7 @@ namespace nilnul.regime_.et
 	/// <summary>
 	/// the et regime is solely stipulated by nothing else but this constitution, and the laws thereforth;
 	/// rewrite the constitution, law, rules in C#;
+	/// constitution, and then a nation. the constitution shall not be constrained to a static land, but to develop scitech and better persons life; without development to be a strong country, it's subject to outside influence and won't last long, and won't hold on to its constitution;
 	/// </summary>
 	/// <remarks>
 	/// not only about legislative, but also administering the law;

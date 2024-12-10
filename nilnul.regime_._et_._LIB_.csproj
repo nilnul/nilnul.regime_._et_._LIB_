@@ -38,4 +38,7 @@
   <ItemGroup>
     <None Include="License.txt" Pack="true" PackagePath="" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="nilnul.math._calculus_._LIB_" Version="1.1.240824.151617" />
+  </ItemGroup>
 </Project>

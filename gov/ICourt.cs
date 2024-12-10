@@ -12,8 +12,21 @@ namespace nilnul.regime_.et.gov
 
 – Article III, Section 1, United States Constitution
 	 */
+
+	/*
+	 当反复要求要“讲政治”时，其实就是没法再讲事实了;
+当一再宣传“讲立场”时，其实就是不打算讲公正了;
+
+当开始强调“大局为重”时，意思就是知道明明不合情理，也要霸王硬上弓了。
+
+所谓“讲政治、讲立场、大局为重”，其实就是耍流氓、就是不讲理、就是无法无天、就是弱肉强食的丛林法则。
+全天下的骗子只有一个伎俩，那就是编造辉煌的过去，并许诺你精彩的未来，然后要你牺牲你的现在。
+
+	-易中天
+	 
+	 */
 	/// <summary>
-	/// 
+	/// facts and logic; nothing else;
 	/// </summary>
 	internal class ICourt
 	{

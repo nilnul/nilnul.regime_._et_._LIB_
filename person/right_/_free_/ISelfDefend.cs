@@ -19,7 +19,7 @@ namespace nilnul.regime_.et.person.right_
 	/// the law must allow the person to defend zimself to the max extent. And only when self defense is not effective will the law intervenes.
 	/// The law must allow persons to contract and solve civil problems by themselves. And only when there is a sue would the law intervene.
 	/// </remarks>
-	/// 
+	/// stand one's ground: at one's home,property,car, or when one is already at a public place where zi is entitled to, ze neednot retreat back, and exercise zis self-defennse right.
 	/// no fight, no right.
 	internal class ISelfDefend
 	{
