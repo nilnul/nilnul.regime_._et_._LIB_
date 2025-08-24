@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace nilnul.regime_.et.gov.admin
 {
 	/// <summary>
-	/// decisions are made by civilian leaders.
+	/// decisions are made by civilian leaders. the military shall respect/protect the civilian leaders, discharge duty for civilian affairs, which shall be the underlying validity of a directive from a higher commanding officer. That is when the higher command is contrary to the civilian rule, the command is not valid according to the laying foundation of the military.
 	/// 
 	/// generals must be confirmed by congress, and swear in before court.
 	/// </summary>

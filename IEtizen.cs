@@ -17,6 +17,7 @@ namespace nilnul.regime_.et
 	/// alias:
 	///		etizen
 	///			,"et", and "zen" means human. et is zen
+	///			, part of "netizen"
 	internal class IEtizen
 	{
 	}

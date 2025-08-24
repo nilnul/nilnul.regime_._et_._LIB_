@@ -18,6 +18,7 @@ namespace nilnul.regime_.et
 	/// <remarks>
 	/// care for the living, console for the dead.
 	/// a symbol for all the living human being, humanity, within the et. It's not part of gov, but a symbol for the people; it has now power, but service|responsibility.
+	/// a unison symbol/voice for all.
 	/// </remarks>
 	/// 
 	/// caretaker of the deceased.

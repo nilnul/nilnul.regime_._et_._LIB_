@@ -5,6 +5,7 @@ namespace nilnul.regime_.et.gov
 	/// </summary>
 	/// alias:
 	///		executive
+	///			exec
 	///		administration
 	interface IAdmin { }
 }

@@ -26,8 +26,10 @@ namespace nilnul.regime_.et.person
 	privilege, which can be deprived by force|compulsorily according to law
 
 	 */
+
 	/// <summary>
 	/// all good start from a person's self;
+	/// personal freedom over governence; a person can live freely without the government, which can only manage nonpersonal/public partial affairs.
 	/// </summary>
 	/// <remarks>
 	/// all bad start from the incapacity of an individual;

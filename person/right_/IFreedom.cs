@@ -18,6 +18,8 @@ namespace nilnul.regime_.et.person.right_
 	/// Even for a convicted, the right to publish is still entitled;
 	/// </remarks>
 	/// 一个将平等置于自由之上的社会，既得不到平等也得不到自由。
+	/// anything that is not forbidden by law is the right of the people.
+	/// anything that is not authorized by law to the gov is not the right of the gov.
 	internal class IFreedom
 	{
 	}

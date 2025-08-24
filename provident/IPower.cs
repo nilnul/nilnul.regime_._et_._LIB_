@@ -11,6 +11,7 @@ namespace nilnul.regime_.et.provident
 	/// </summary>
 	/// <remarks>
 	/// funding for welfare is directly transferred to charity organization, not through provident.
+	/// the provident, so as <see cref="et.IAcademia"/>,  has no legal government power. It's an emblem for autonomy;
 	/// </remarks>
 	internal class IPower
 	{

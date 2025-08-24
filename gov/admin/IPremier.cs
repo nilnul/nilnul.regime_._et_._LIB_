@@ -14,6 +14,9 @@ namespace nilnul.regime_.et.gov.admin
 	///		prosecutor
 	///		foreign relations
 	/// </summary>
+	/// <remarks>
+	/// under the leader ship of <see cref="gov.IPremier"/>
+	/// </remarks>
 	internal class IPremier
 	{
 	}
