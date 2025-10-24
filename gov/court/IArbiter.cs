@@ -12,6 +12,8 @@ namespace nilnul.regime_.et.gov.court
 	/// <remarks>
 	/// arbiter is a service at request, not imposable;
 	/// </remarks>
+	/// 
+	[Obsolete(nameof(et.people.autonom.IArbiter))]
     class IArbiter
     {
     }

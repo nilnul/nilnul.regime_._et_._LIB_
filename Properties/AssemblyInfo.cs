@@ -11,13 +11,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("nilnul.regime_._et_._LIB4FX_")]
+[assembly: AssemblyTitle("nilnul.regime_._et_._LIB_")]
 [assembly: AssemblyDescription(@"nilnul regime design for et(extra territory) LIBrary for dotNet framework;code first(linguistic follows)" )]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("nilnul")]
-[assembly: AssemblyProduct("nilnul.regime_._et_._LIB4FX_")]
+[assembly: AssemblyProduct("nilnul.regime_._et_._LIB_")]
 [assembly: AssemblyCopyright("wangyoutian@nilnul")]
-[assembly: AssemblyTrademark("nilnul.regime_._et_._LIB4FX_")]
+[assembly: AssemblyTrademark("nilnul.regime_._et_._LIB_")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

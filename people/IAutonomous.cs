@@ -19,9 +19,11 @@ namespace nilnul.regime_.et.people
 	 */
 
 	/// <summary>
-	/// <see cref="person.IRight"/> is foremost;
-	/// then this;
-	/// then <see cref="ILaw"/>;
+	/// <see cref="person.IRight"/> of <see cref="person.right_.IFreedom"/> is foremost;
+	/// then this, by consensus;
+	/// 
+	/// then, for only pubic affairs, not private matters, or autonony, that  <see cref="ILaw"/> is applied; law is not applied to personal private matter, or autonomy;
+	/// 
 	/// This is like a contract that a person signs with the group ze is a member of. When the contract is breached, ze shall compensate according to the contract; if ze refuses, the group can sue to ask the court to enforce ( ask the bank, the registry of house/car, etc to forfeit the money, etc);
 	/// </summary>
 	/// <remarks>

@@ -1,15 +1,15 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nilnul.regime_.et.law._trial
+namespace nilnul.regime_.et._design
 {
 	/// <summary>
-	///  A defendant can waive zis right to a jury trial
+	/// a country for people who pursue truth, goodness, and beauty.
 	/// </summary>
-	internal class Jury
+	internal class IMission
 	{
 	}
 }
