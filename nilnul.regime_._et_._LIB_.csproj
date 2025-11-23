@@ -429,6 +429,7 @@
     <Compile Include="_info\IDebate.cs" />
     <Compile Include="_info\IVote.cs" />
     <Compile Include="_law\design_\IEventDriven.cs" />
+    <Compile Include="_law\design_\IProcedure.cs" />
     <Compile Include="_law\design_\IThrowException.cs" />
     <Compile Include="_law\IPower.cs" />
     <Compile Include="_law_\IRight0justice.cs" />
@@ -437,6 +438,9 @@
     <Compile Include="_provident\_appoint\ICandidate.cs" />
     <Compile Include="_seal\design_\uxp_\ITree.cs" />
     <Compile Include="_seal\design_\uxp_\ICogs.cs" />
+    <Compile Include="_this\IContentToFoolThePeopleIsRemoved.cs" />
+    <Compile Include="_this\literature_\NetworkGenesis.cs" />
+    <Compile Include="_this\NewIdealismMust.cs" />
     <Compile Include="_this\_representation\Complexity.cs" />
   </ItemGroup>
   <ItemGroup>

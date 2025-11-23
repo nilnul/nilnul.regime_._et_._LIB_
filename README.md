@@ -6,3 +6,6 @@ It's a Utopia defined in C#.
 The constitution and law are defined in programming languages so that:
 1) many procedures can be automatically carried out by computer, avoiding any unjust intervention from connected human beings;
 2) the development tools can help us organize and understand the rules, verifying its consistency.
+3) the law is continuously improved. Anyone can request a change of the law, at anytime; And it can approved at any time per a procedure. (In any case, the law cannot be retroactive, and also shall not affect ongoing deed; it can only be applied for future event that is free in the beginning, from the effect of the change. )
+
+
